@@ -44,8 +44,6 @@ The dataset contains various features such as:
 - House characteristics (size, number of rooms, etc.).
 - Target variable: House price.
 
-> Note: The dataset is assumed to be loaded into the notebook directly or provided separately as `data.csv`.
-
 ## 🛠️ Tools and Libraries
 The project utilizes the following Python libraries:
 - **Pandas**: Data manipulation and analysis.
